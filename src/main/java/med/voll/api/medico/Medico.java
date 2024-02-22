@@ -2,6 +2,7 @@ package med.voll.api.medico;
 
 import jakarta.persistence.*;
 import lombok.*;
+import med.voll.api.endereco.DadosAtualizacaoMedicos;
 import med.voll.api.endereco.Endereco;
 
 @Table(name = "medicos")
@@ -31,5 +32,17 @@ public class Medico {
         this.crm = dados.crm();
         this.especialidade = dados.especialidade();
         this.endereco = new Endereco(dados.endereco());
+    }
+
+    public void atualizarInformacoes(DadosAtualizacaoMedicos dados){
+        if(dados.nome() != null){
+            this.nome = dados.nome();
+        }
+        if(dados.telefone() != null){
+            this.telefone = dados.telefone();
+        }
+        if(dados.endereco() != null){
+            this.endereco.atualizarInformacoes(dados.endereco());
+        }
     }
 }
