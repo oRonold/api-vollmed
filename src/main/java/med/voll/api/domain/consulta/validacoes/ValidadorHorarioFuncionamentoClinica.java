@@ -15,7 +15,7 @@ public class ValidadorHorarioFuncionamentoClinica implements ValidadorAgendament
         var antesDaAbertura = dataConsulta.getHour() < 7;
         var depoisDoEncerramento = dataConsulta.getHour() > 18;
         if(domingo || antesDaAbertura || depoisDoEncerramento){
-            throw new ValidacaoException("Consulta fora do horário de funcionameto da clínica");
+            throw new ValidacaoException("Consulta fora do horário de funcionamento da clínica");
         }
     }
 
