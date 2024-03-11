@@ -29,7 +29,7 @@ Abaixo, as tecnologias utilizadas no desenvolvimento da API REST:
 - Flyway
 - Lombok
 
-## Autor
+## :man_student: Autor
 Desenvolvido por Ronald de Oliveira Farias na Alura pela formação Java e Spring Boot
 
 Instruído por: <a href="https://cursos.alura.com.br/user/rodrigo-ferreira">Rodrigo da Silva
