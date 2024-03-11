@@ -1,4 +1,4 @@
-## :books: Sobre o Projeto 
+## :books: Sobre o projeto 
 
 Voll.med consiste em uma clínica médica fictícia que necessita de um aplicativo para gestão de pacientes, médicos e consultas.
 O aplicativo necessita ter funcionalidades como, cadastro de médicos e de pacientes, e também métodos de agendamento e cancelamento de consultas.
