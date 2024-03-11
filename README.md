@@ -15,7 +15,7 @@ Funcionalidades da API REST desenvolvida, pode ser que algumas funções ainda e
 É possível visualizar o layout da aplicação por <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med?type=design&node-id=2-1007&mode=design">aqui.
 
 ## :clipboard: Trello
-É possível visualizar o passo a passo do desenvolvimento no <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello.
+É possível visualizar o passo a passo do desenvolvimento e suas funcionalidades no <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello.
 
 ## :toolbox: Tecnologias
 
