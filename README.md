@@ -4,12 +4,12 @@ Voll.med consiste em uma clínica médica fictícia que necessita de um aplicati
 O aplicativo necessita ter funcionalidades como, cadastro de médicos e de pacientes, e também métodos de agendamento e cancelamento de consultas.
 
 ## :pencil: Funcionalidades
-Funcionalidades da API REST desenvolvida, pode ser que algumas funções ainda estejam sendo implementadas.
+Funcionalidades da API REST desenvolvida:
 
 :heavy_check_mark: CRUD de Médicos<br>
 :heavy_check_mark: CRUD de Pacientes<br>
 :heavy_check_mark: Agendamentos de Consultas<br>
-:x: Cancelamento de Consultas
+:heavy_check_mark: Cancelamento de Consultas
 
 ## :paintbrush: Figma
 É possível visualizar o layout da aplicação por <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med?type=design&node-id=2-1007&mode=design">aqui.
